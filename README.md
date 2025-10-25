@@ -5,9 +5,8 @@ A simple, no-dependency text-to-speech converter built with vanilla HTML, CSS, a
 This app uses the browser's built-in Web Speech API to turn written text into 
 audible speech and allows you to select from the voices available on your device.
 
-🧩 Project Structure
 
-🧩 Project Structure
+🧩 Project Structure 👇
 
 text-to-speech/
 
