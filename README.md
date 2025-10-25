@@ -6,6 +6,7 @@ This app uses the browser's built-in Web Speech API to turn written text into
 audible speech and allows you to select from the voices available on your device.
 
 🧩 Project Structure
+
 text-to-speech/
 ├── index.html
 ├── style.css
@@ -21,7 +22,13 @@ text-to-speech/
 <img width="730" height="404" alt="screenshot2" src="https://github.com/user-attachments/assets/8070a541-5270-45c1-b707-8a35a1641027" />
 
 
+
+
+
+
+
 ✨ Features
+
 •Text-to-Speech: Converts any text from the input area into speech.
 
 •Dynamic Voice Selection: Automatically fetches and populates a dropdown menu with all voices
@@ -32,7 +39,10 @@ available in the user's browser (e.g., Google, Microsoft, etc.).
 •No Dependencies: Built purely with vanilla HTML, CSS, and JavaScript.
 
 
+
+
 🛠 Technologies Used
+
 •HTML5: For the basic structure and layout.
 
 •CSS3: For all styling, including the gradient background and custom UI elements.
@@ -43,9 +53,9 @@ available in the user's browser (e.g., Google, Microsoft, etc.).
 for the core TTS( text to speech )functionality.
 
 
-.
 
 🚀 How to Use
+
 1.Clone the Repository:
 
 git clone https://github.com/your-username/text-to-speech-converter.git
