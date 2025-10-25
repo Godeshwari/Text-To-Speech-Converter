@@ -7,20 +7,21 @@ audible speech and allows you to select from the voices available on your device
 
 🧩 Project Structure
 
+🧩 Project Structure
+
 text-to-speech/
 
--->index.html
+├── index.html
+
+├── style.css
+
+├── script.js
+
+└── images/
+    ├── play.png
+    └── dropdown.png
 
 
---> style.css
-
-
---> script.js
-
-
---> images/
-    • play.png
-    • dropdown.png
 
 📸 Demo 
 
